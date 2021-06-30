@@ -14,7 +14,7 @@ function getTime(){
 }
 function init(){
     getTime();
-    setInterval(getTime, 1500);
+    setInterval(getTime, 1600);
 } 
 
 init();
